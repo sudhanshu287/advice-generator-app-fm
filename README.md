@@ -35,7 +35,9 @@ Users should be able to:
 ### Screenshot
 
 ![](./preview-images/advice-generator-desktop.png)
+
 <br>
+
 ![](./preview-images/advice-generator-mobile.png)
 
 
