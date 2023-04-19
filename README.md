@@ -36,8 +36,6 @@ Users should be able to:
 
 ![](./preview-images/advice-generator-desktop.png)
 
-<br>
-
 ![](./preview-images/advice-generator-mobile.png)
 
 
