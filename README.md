@@ -2,7 +2,7 @@
   
 
   <h1>Frontend Mentor - Advice generator app solution</h1>
-  <a href="https://calculator-app-c.vercel.app/"><strong>➥ Live Demo</strong></a>
+  <a href="https://advice-generator-app-287.vercel.app/"><strong>➥ Live Demo</strong></a>
 
 </div>
 <br/>
@@ -41,8 +41,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Click Here](https://your-solution-url.com)
-- Live Site URL: [Click Here](https://your-live-site-url.com)
+- Solution URL: [Click Here](https://github.com/sudhanshu287/advice-generator-app-fm)
+- Live Site URL: [Click Here](https://advice-generator-app-287.vercel.app/)
 
 ## My process
 
@@ -51,7 +51,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### What I learned
