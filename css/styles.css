@@ -71,6 +71,10 @@ body {
     }
     .title{
         margin-bottom: 1.5rem;
+        
+    }
+    .advice__message{
+        font-size: 28px;
     }
     .img__divider{
         margin-top: 1.5rem;
